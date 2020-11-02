@@ -17,7 +17,7 @@ const SearchScreen = () => {
             <Searchbar 
                 term={term} 
                 onChangeTerm={setTerm}
-                onSubmitTerm={searchApi}
+                onSubmitTerm={() => searchApi(term)}
             />
             {error ? <Text>{error}</Text> : null}
             <ScrollView>

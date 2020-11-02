@@ -2,9 +2,9 @@
   "devToolsPort": 19002,
   "expoServerPort": 19000,
   "packagerPort": 19001,
-  "packagerPid": 2432,
-  "expoServerNgrokUrl": "https://gt-rut.anonymous.rn-starter.exp.direct",
-  "packagerNgrokUrl": "https://packager.gt-rut.anonymous.rn-starter.exp.direct",
-  "ngrokPid": 15480,
+  "packagerPid": 15224,
+  "expoServerNgrokUrl": "https://vk-tz3.anonymous.restaurants.exp.direct",
+  "packagerNgrokUrl": "https://packager.vk-tz3.anonymous.restaurants.exp.direct",
+  "ngrokPid": 2464,
   "webpackServerPort": 19006
 }
