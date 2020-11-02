@@ -7,7 +7,7 @@ A mobile application built using React Native
 ## Features
 
 - Resturant search
-- filtered by price
+- Filtered by price
 - Resturant detail screen with vertical and horizontal scroll
 - Resturants pictures and reviews
 - Call to book
